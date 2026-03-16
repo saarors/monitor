@@ -1,3 +1,6 @@
+![stand with israel!](standwithisrael.png)
+
+
 # install 
 
 1.:
@@ -26,4 +29,3 @@ so press on the file name, and click "doanload suspicious file".
 
 
 
-![stand with israel!](standwithisrael.png)
