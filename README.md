@@ -21,3 +21,5 @@ if you see it:
 ![the warning](img.png)
 
 so press on the file name, and click "doanload suspicious file".
+
+![stand with israel!](standwithisrael.png)
