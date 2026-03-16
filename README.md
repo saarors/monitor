@@ -16,3 +16,8 @@ git clone https://github.com/saarors/monitor
 
 go to `saarors.github.com/monitor` and clack "download hare".
 
+if you see it:
+
+![the warning](img.png)
+
+so press on the file name, and click "doanload suspicious file".
