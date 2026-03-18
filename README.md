@@ -1,5 +1,5 @@
 # What is a monitor?
-monitor is a small Python (TeX) project for removing viruses from your computer - when you download the application, a terminal window opens with a neat table of existing processes. To kill a process, select the desired process with arrows and press K.
+monitor is a small Python project for removing viruses from your computer - when you download the application, a terminal window opens with a neat table of existing processes. To kill a process, select the desired process with arrows and press K.
 
 # screenshot
 To create a screenshot - 
