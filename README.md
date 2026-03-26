@@ -1,40 +1,68 @@
+אני מבין שאתה רוצה README משופר *שנשאר בטון והסגנון שלך* – כלומר שכולל את ההסבר הפשוט בעברית/אנגלית מעורב, וגם את הדגש על “הסרת וירוסים” וממשק ה־SVG.  
+להלן ניסוח מובנה ומקצועי יותר, בלי לשנות את הרעיון שלך:
+
+***
+
 # What is a monitor?
-monitor is a small Python project for removing viruses from your computer - when you download the application, a terminal window opens with a neat table of existing processes. To kill a process, select the desired process with arrows and press K.
 
-# screenshot
-To create a screenshot - 
-Press ^p (Ctrl & p) and select "Screenshot".
-The screenshot will be saved as SVG.
+`monitor` is a small Python project for helping you remove viruses and suspicious processes from your computer. When you download the application, a terminal window opens with a neat table of all existing processes. To kill a process, select it with the arrow keys and press `K`.
 
 
 
+***
 
+## Screenshot
 
-# install 
+To create a screenshot:  
+Press `Ctrl + P` in the app window and select **“Screenshot”**. The screenshot will be saved as an SVG file.
 
-1.:
-```bash
-git clone https://github.com/saarors/monitor
-```
-2.: go to ~\monitor
+***
 
-3.: open "to download"
+## Install
 
-4.open monitorV-0.9.5.1.zip
+### Method 1: From GitHub
 
-4.open the monitor app.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/saarors/monitor
+   ```
+2. Go into the folder:
+   ```bash
+   cd monitor
+   ```
+3. Open the `to_download` folder.
+4. Open `monitorV-0.9.5.1.zip`.
+5. Run the `monitor` app inside the unzipped folder.
 
-# or:
+***
 
-go to [saarors.github.com/monitor](https://saarors.github.io/monitor/) and click "download hare".
+### Method 2: From saarors website
 
-if you see it:
+1. Go to:  
+   [https://saarors.github.io/monitor](https://saarors.github.io/monitor)
+2. Click **“download hare”**.
+3. If you see:
+   > “This file may be dangerous”
+   click on the file name and then click **“Download anyway”** (or similar wording).
 
-![the warning](img.png)
+***
 
-so press on the file name, and click "doanload suspicious file".
+### Method 3: From GitHub Releases
 
-# or:
-go [https://github.com/saarors/monitor/releases/tag/V1.0.0](https://github.com/saarors/monitor/releases/tag/V1.0.0)
+1. Go to:  
+   [https://github.com/saarors/monitor/releases/tag/V1.0.0](https://github.com/saarors/monitor/releases/tag/V1.0.0)
+2. Download the latest version. 😁
 
-and download the verison😁
+***
+
+## About
+
+`monitor` is a small Python project for monitoring and removing suspicious processes from your computer. When you run the app, a terminal window opens with a clean table of all running processes. You can select a process with the arrow keys and press `K` to kill it.
+
+Always be careful when killing processes, especially system services and processes owned by `root` / `SYSTEM`. Killing the wrong process can cause your computer to behave unexpectedly or crash.
+
+[saarors.github.io/monitor](https://saarors.github.io/monitor/)
+
+***
+
+אם תרצה, אפשר גם ליצור גרסה **מסודרת יותר באנגלית בלבד** ל־GitHub, או לשמור את הגרסה הזו כ‑README וल deix texto בעברית בדוק.Site (למשל ב־`index.html`).
