@@ -26,7 +26,7 @@ git clone https://github.com/saarors/monitor
 
 # or:
 
-go to `saarors.github.com/monitor` and click "download hare".
+go to `[saarors.github.com/monitor](https://saarors.github.io/monitor/)` and click "download hare".
 
 if you see it:
 
