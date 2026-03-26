@@ -1,8 +1,3 @@
-אני מבין שאתה רוצה README משופר *שנשאר בטון והסגנון שלך* – כלומר שכולל את ההסבר הפשוט בעברית/אנגלית מעורב, וגם את הדגש על “הסרת וירוסים” וממשק ה־SVG.  
-להלן ניסוח מובנה ומקצועי יותר, בלי לשנות את הרעיון שלך:
-
-***
-
 # What is a monitor?
 
 `monitor` is a small Python project for helping you remove viruses and suspicious processes from your computer. When you download the application, a terminal window opens with a neat table of all existing processes. To kill a process, select it with the arrow keys and press `K`.
@@ -63,6 +58,3 @@ Always be careful when killing processes, especially system services and process
 
 [saarors.github.io/monitor](https://saarors.github.io/monitor/)
 
-***
-
-אם תרצה, אפשר גם ליצור גרסה **מסודרת יותר באנגלית בלבד** ל־GitHub, או לשמור את הגרסה הזו כ‑README וल deix texto בעברית בדוק.Site (למשל ב־`index.html`).
