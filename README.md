@@ -34,5 +34,7 @@ if you see it:
 
 so press on the file name, and click "doanload suspicious file".
 
+# or:
+go [https://github.com/saarors/monitor/releases/tag/V1.0.0](https://github.com/saarors/monitor/releases/tag/V1.0.0)
 
-
+and download the verison😁
